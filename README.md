@@ -1,6 +1,6 @@
 ![missa](https://github.com/user-attachments/assets/c3de01d6-d865-4fd3-a842-e361d41efcd1)
 _________________________________________________________________________
-## Hello there! I'm Ruru Nugget (✿◡‿◡)
+## Hello there! I'm Salsabila (✿◡‿◡)
 _________________________________________________________________________
 
 A kinda curious teenager who's now learning Python, Front-end, and Cybersecurity :3 a student at a Vocational High School with Informatics Engineer as my major (◔◡◔)
